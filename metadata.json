@@ -1,0 +1,8 @@
+{
+  "name": "Aether: Gyroscopic Memory Palace",
+  "description": "A spatial computing interface turning your device into a window to a 360-degree memory void. Organize thoughts in 3D space using physical movement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
